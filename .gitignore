@@ -1,0 +1,16 @@
+*target*
+*.jar
+*.war
+*.ear
+*.class
+.gradle
+
+# eclipse specific git ignore
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+.settings/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
